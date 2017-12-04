@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPC.AI.Samples.RssFeedAnalyzer", "WPC.AI.Samples.RssFeedAnalyzer\WPC.AI.Samples.RssFeedAnalyzer.csproj", "{19EAFF8E-604B-4E3C-B83F-4D92685E576E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPC.AI.Samples.Common", "WPC.AI.Samples.Common\WPC.AI.Samples.Common.csproj", "{B82E5DF3-32AF-43E2-BB0A-4DEA595EE44A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPC.AI.Samples.TwitterAnalyzer", "WPC.AI.Samples.TwitterAnalyzer\WPC.AI.Samples.TwitterAnalyzer.csproj", "{E1149FEA-B0DE-485E-925C-AD7CE3A2A78A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPC.AI.Samples.AzureSearchIngest", "WPC.AI.Samples.AzureSearchIngest\WPC.AI.Samples.AzureSearchIngest.csproj", "{6829D24D-CFEA-4C09-A8C2-DC96B900C4E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPC.AI.Samples.ReadItemExplorerBot", "WPC.AI.Samples.ReadItemExplorerBot\WPC.AI.Samples.ReadItemExplorerBot.csproj", "{83AF55B0-5DE5-4857-B76F-3E858FACE262}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19EAFF8E-604B-4E3C-B83F-4D92685E576E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19EAFF8E-604B-4E3C-B83F-4D92685E576E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19EAFF8E-604B-4E3C-B83F-4D92685E576E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19EAFF8E-604B-4E3C-B83F-4D92685E576E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B82E5DF3-32AF-43E2-BB0A-4DEA595EE44A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82E5DF3-32AF-43E2-BB0A-4DEA595EE44A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82E5DF3-32AF-43E2-BB0A-4DEA595EE44A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82E5DF3-32AF-43E2-BB0A-4DEA595EE44A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1149FEA-B0DE-485E-925C-AD7CE3A2A78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1149FEA-B0DE-485E-925C-AD7CE3A2A78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1149FEA-B0DE-485E-925C-AD7CE3A2A78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1149FEA-B0DE-485E-925C-AD7CE3A2A78A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6829D24D-CFEA-4C09-A8C2-DC96B900C4E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6829D24D-CFEA-4C09-A8C2-DC96B900C4E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6829D24D-CFEA-4C09-A8C2-DC96B900C4E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6829D24D-CFEA-4C09-A8C2-DC96B900C4E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83AF55B0-5DE5-4857-B76F-3E858FACE262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83AF55B0-5DE5-4857-B76F-3E858FACE262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83AF55B0-5DE5-4857-B76F-3E858FACE262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83AF55B0-5DE5-4857-B76F-3E858FACE262}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E93957C9-C2AD-4898-84B4-660FF719868F}
+	EndGlobalSection
+EndGlobal

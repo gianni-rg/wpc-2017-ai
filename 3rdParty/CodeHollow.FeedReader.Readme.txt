@@ -1,0 +1,4 @@
+Custom build from repo:
+https://github.com/codehollow/FeedReader
+
+updates to support NET Standard 2.0
